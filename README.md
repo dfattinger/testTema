@@ -1,4 +1,4 @@
-API do Jogo HearthStone para o processo seletivo da My Capital.
+API desenvolvida em JAVA 11, do Jogo HearthStone para o processo seletivo da My Capital.
 
 Esta API dispõe dos 14 serviços (endpoints) a seguir:
 
