@@ -51,3 +51,11 @@ Foram utilizados para testes:
    Swagger
    
    Postman
+
+*** Para rodar a API favor baixar uma cópia na máquina e subir com o IntelliJ. Porta local 8080.
+
+*** Testar pelo Swagger: http://localhost:8080/swagger-ui.html#/
+
+*** Testar pelo Postman (local também), time: warped-flare-839517.postman.co  (solicitar acesso por favor)
+
+*** Subi o projeto também no GitPod.io (https://dfattinger-testtema-4gyuydmp3do.ws-us53.gitpod.io/)
